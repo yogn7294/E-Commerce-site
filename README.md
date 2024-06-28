@@ -57,7 +57,7 @@ open index.html
 *(Replace `open` with the appropriate command for your OS if necessary, such as `start` on Windows)*
 
 
-Assets for the site: google drive link 
+Assets for the site: Google Drive link https://drive.google.com/drive/folders/1YHxm1mc_uKSioqfMGJ4uLGOzMaEWm3ET?usp=sharing
 
 
 
